@@ -1,0 +1,22 @@
+150 bpm = 2.5 beats per second
+
+there is a beat every 4/10 of a second
+
+
+80 steps (game run speed) times 4/10 = 32 pixels (width of blocks)
+
+if player moves 4 pixels per step,
+
+it takes 8 steps to cross a block (1/10th of a second)
+
+
+each block is equal to a 16th note (4 blocks per beat- beat = quarter note)
+
+32 pixels per block, 4 blocks per beat, 4 beats per measue = 512 pixels per measure
+
+
+
+
+
+
+-during the rain part, maybe i could double the player speed 

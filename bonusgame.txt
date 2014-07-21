@@ -1,0 +1,88 @@
+bonus album content:
+
+
+----------------------------
+BUGS:
+excatly landing on the corner of a block doesn't give you your jump back (even though there's not getting stuck bug anymore)
+
+
+
+i think the problem came when i switched from "hspeed" to "x +=", maybe "hspeed" syncs up with the cpu rate somehow
+whereas "x +=" is limited by the fps rate
+
+
+
+landing on exact corner of block sometimes causes a bug when you're invincible (happened once when not invincible)
+
+music is becoming unsynced as the game progresses due to fps drops
+	fix?: lower the fps of the game down to 40
+
+maybe i could just have all the alarms go off of the global.beat so that it's all synced to one thing an i only 
+have to match that one thing to the music
+
+rain stops sooner than it should
+game still gets off sync
+
+--------------------------------
+Feature Ideas:
+
+-if i made the song 75 bars long, that's 300 measures. I could give each song a dedicated amount of space for
+the background of the bonus song game, and whatever blocky art i use there could be used in the lyric book pdf as 
+the background for each page/song 
+https://encrypted.google.com/search?tbm=isch&q=tiling%20sprite%20background&tbs=imgo:1&biw=1920&bih=913&sei=GmvoUe79DaW7iwL__oGIDA#tbs=imgo:1&tbm=isch&sa=1&q=tiling+background+sky&oq=tiling+background+sky&gs_l=img.3...12368.14998.4.15088.21.19.0.1.1.0.130.1588.16j3.19.0....0...1c.1.21.img.9ltChaHUR6Q&fp=1&biw=1920&bih=913&cad=b&bav=on.2,or.r_cp.r_qf.&imgdii=_
+
+this would be 128 x 400 pixels for each song
+if i cut that in half to be 128 x 200, the ratio is .64, and the ratio for normal paper is .66
+so i could use it in the book
+
+
+
+
+
+
+
+
+-maybe they could enter a cheat code and it makes them flying and invincible for the entire game
+
+
+maybe have the special end room have fireworks
+
+
+
+
+-hidden/secret blocks that look just like regular ones, but if you smash them with your head, they do cool stuff
+(maybe like a little firework or something, or it changes your character color)
+
+
+
+MISC:
+remember to label all the code once i'm done so that i can come back and tell what's going on
+
+-------------------------------------------
+Unsorted
+
+
+
+i could make a cool character, and make a tshirt of the character, with the ekg looking line behind him, on a blank tshirt
+
+
+
+if you make it all the way to the end, your character just stands there and the song loops.
+
+
+
+song is 150 beats per minute = 2.5 beats per minute
+
+
+the fast part is 4 notes per beat,
+so that's 10 times per second
+
+
+when you get to the end, it's sort of like a 'you win' screen where your character just sits there and you can listen to
+the track indefinitely
+
+maybe make it so that when you die, the song fades our really fast instead of just cutting off
+
+
+
+This game was inspired by "The Impossible Game"
