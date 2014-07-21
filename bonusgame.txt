@@ -62,6 +62,9 @@ remember to label all the code once i'm done so that i can come back and tell wh
 Unsorted
 
 
+I could take the time on the computer when the music starts, and then periodically compare that to the current time on the computer to determine where the timers should be.
+
+
 
 i could make a cool character, and make a tshirt of the character, with the ekg looking line behind him, on a blank tshirt
 
